@@ -2,7 +2,7 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java Enterprise
+  - Java
   - Spring MVC & Maven
   - Jenkins (CI/CD)
   - Kafka & Couchbase
